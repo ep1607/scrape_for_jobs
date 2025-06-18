@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.venv
+.envrc
+.idea/
+*.sqlite3
+*.log
+output/
+.scrapy/
+.pre-commit-config.yaml
